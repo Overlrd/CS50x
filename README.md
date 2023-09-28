@@ -1,1 +1,1 @@
-# CS50x-Lua
+# CS50x-Psets-Lua
